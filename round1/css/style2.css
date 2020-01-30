@@ -1,0 +1,20 @@
+.boxy h2{
+    margin-top: 0%;
+}
+.form-control{
+    font-family: 'Courier New';
+    font-weight: bold;
+    padding: 8%;
+}
+.form-control::placeholder {
+    color: rgb(12, 55, 94);
+    font-size: medium;
+    font-weight: 600;
+    opacity: 0.8;
+  }
+.boxy input[type="submit"]{
+    background-color: transparent;
+    border:2px solid #158ABD;
+    box-shadow: 0px 0px 20px  #158ABD;
+    width: 100px;
+}
